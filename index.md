@@ -4,6 +4,8 @@
 
 We are a very friendly local choir, welcoming to people of all ages and abilities, and we perform at a variety of events including concerts, special services, and weddings and funerals upon request.
 
+![The choir on the steps of Northington Church](choir.jpg "The Choir")
+
 ### Contact
 
 You can still reach us by email at `info` at `candovervalleychoir.co.uk` for any enquiries about concerts, singing with us, bookings, etc. We also happily accept compliments!
