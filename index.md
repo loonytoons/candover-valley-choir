@@ -1,8 +1,6 @@
 ## Candover Valley Choir
 
-```markdown
-The choir is still going strong but the website was getting a little out of tune so is in the process of being updated.
-```
+>The choir is still going strong but the website was getting a little out of tune so is in the process of being updated.
 
 We are a very friendly local choir, welcoming to people of all ages and abilities, and we perform at a variety of events including concerts, special services, and weddings and funerals upon request.
 
